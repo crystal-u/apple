@@ -1,0 +1,20 @@
+.main_1 {width:auto; height: 700px; background-image : url(../iphone_12.jpg) ;}
+.main_1 p {text-align: center;}
+.main_1 p:nth-child(3) { color: #86868b; font-weight: 400; margin-top: 13.6px;}
+
+.a_1 { display: flex; justify-content: center; margin-top: 13.65px;}
+.a_1 a:hover {text-decoration: underline;}
+.a_1 a {color:#06c; font-size: 20px;}
+.a_1 p {color:#06c; font-size: 20px;}
+.a_1 a:nth-child(2) {margin-left: 35px;}
+
+.h_1 {font-family: 'sf pro'; font-size: 55px; font-weight: 600;}
+.h_2 {font-family: 'sf pro'; font-size: 30px; font-weight: 400;}
+
+.main_2 {width:auto; height: 700px; background-image : url(../iphone_12_2.jpg) ;}
+.main_2 {color:#fff; padding-top:55px;}
+.main_2 p {text-align: center;}
+
+.main_3 {width:1155px; height: 495px; background-image : url(../air.jpg); padding-top:33px; align-items: center;}
+.main_3 p {text-align: center;}
+.main_3 a {position: center;}
