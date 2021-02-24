@@ -10,7 +10,7 @@
 
 .gnb_bag a { display: block; width: 36px; height: 44px; background-image: url(../gnb_bag.svg); background-repeat: no-repeat; background-position: center center;}
 
-
+.gnb_m {display:none;}
 
 @media screen and (max-width:1068px) {
         
